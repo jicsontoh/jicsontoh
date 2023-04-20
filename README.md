@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## More about me
+
+- Visit my personal site, []()
+- Connect with me, [LinkedIn](https://www.linkedin.com/in/jicsontoh/) 
+
 <!--
 **jicsontoh/jicsontoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
