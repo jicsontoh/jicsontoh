@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I am Jicson, a penultimate computer science undergraduate from NUS and a passionate software developer. I enjoy tackling challenging problems and trying out new technologies to build innovative solutions. 
 
-Feel free to explore my repositories and if you find anything interesting or have any questions, I'd be happy to connect and collaborate. Let's build something great together!
+Feel free to check out my repositories and if you find anything interesting or have any questions, I'd be happy to connect and collaborate. Let's build something great together!
 
 **Tech Skills:**
 
