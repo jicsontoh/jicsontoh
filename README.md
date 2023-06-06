@@ -4,7 +4,7 @@ Welcome to my GitHub! I am Jicson, a penultimate computer science undergraduate 
 
 Feel free to explore my repositories and if you find anything interesting or have any questions, I'd be happy to connect and collaborate. Let's build something great together!
 
-**Skills:**
+**Technologies:**
 
   <a href="https://www.java.com/en/" title="Java"><img src="icons/java.svg" height="35" width="auto" /></a>
   &nbsp;
@@ -16,13 +16,15 @@ Feel free to explore my repositories and if you find anything interesting or hav
   &nbsp;
   <a href="https://flutter.dev" title="Flutter"><img src="icons/flutter.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://reactjs.org" title="React"><img src="icons/react.svg" height="35" width="auto" /></a>
-  &nbsp;
   <a href="https://nodejs.org/en/" title="Node.js"><img src="icons/nodejs.svg" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://reactjs.org" title="React"><img src="icons/react.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.docker.com" title="Docker"><img src="icons/docker.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.kubernetes.com" title="Kubernetes"><img src="icons/kubernetes.svg" height="38" width="auto" /></a>
+  &nbsp;
+  <a href="https://www.mongodb.com" title="mongodb"><img src="icons/mongodb.svg" height="35" width="auto" /></a>
 
 ### Reach out to me 🙂
 
