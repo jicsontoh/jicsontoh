@@ -10,6 +10,10 @@ Feel free to explore my repositories and if you find anything interesting or hav
   &nbsp;
   <a href="https://www.python.org/" title="Python"><img src="icons/python.svg" height="35" width="auto" /></a>
   &nbsp;
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="Cpp"><img src="icons/cpp.svg" height="38" width="auto" /></a>
+  &nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="icons/c.svg" height="35" width="auto" /></a>
+  &nbsp;
   <a href="https://flutter.dev" title="Flutter"><img src="icons/flutter.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://reactjs.org" title="React"><img src="icons/react.svg" height="35" width="auto" /></a>
@@ -18,7 +22,7 @@ Feel free to explore my repositories and if you find anything interesting or hav
   &nbsp;
   <a href="https://www.docker.com" title="Docker"><img src="icons/docker.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://www.kubernetes.com" title="Docker"><img src="icons/kubernetes.svg" height="35" width="auto" /></a>
+  <a href="https://www.kubernetes.com" title="Kubernetes"><img src="icons/kubernetes.svg" height="38" width="auto" /></a>
 
 ### Reach out to me 🙂
 
