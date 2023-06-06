@@ -4,7 +4,7 @@ Welcome to my GitHub! I am Jicson, a penultimate computer science undergraduate 
 
 Feel free to explore my repositories and if you find anything interesting or have any questions, I'd be happy to connect and collaborate. Let's build something great together!
 
-**Technologies:**
+**Tech Skills:**
 
   <a href="https://www.java.com/en/" title="Java"><img src="icons/java.svg" height="35" width="auto" /></a>
   &nbsp;
