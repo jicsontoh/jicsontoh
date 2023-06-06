@@ -23,7 +23,6 @@ Feel free to explore my repositories and if you find anything interesting or hav
   <a href="https://www.docker.com" title="Docker"><img src="icons/docker.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.kubernetes.com" title="Kubernetes"><img src="icons/kubernetes.svg" height="38" width="auto" /></a>
-  &nbsp;
   <a href="https://www.mongodb.com" title="mongodb"><img src="icons/mongodb.svg" height="35" width="auto" /></a>
 
 ### Reach out to me 🙂
