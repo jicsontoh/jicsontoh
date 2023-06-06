@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hey there 👋
 
-## More about me
+Welcome to my GitHub! I am Jicson, a penultimate computer science undergraduate from NUS and a passionate software developer. I enjoy tackling challenging problems and trying out new technologies to build innovative solutions. 
 
-- Visit my personal site, []()
+Feel free to explore my repositories and if you find anything interesting or have any questions, I'd be happy to connect and collaborate. Let's build something great together!
+
+### Reach out to me 🙂
+
+- Visit my personal site, [jicson.com](https://jicson.netlify.app)
 - Connect with me, [LinkedIn](https://www.linkedin.com/in/jicsontoh/) 
 
 <!--
