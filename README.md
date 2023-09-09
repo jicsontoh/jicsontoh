@@ -27,7 +27,7 @@ Feel free to check out my repositories and if you find anything interesting or h
 
 ### Reach out to me 🙂
 
-- Visit my personal site, [jicson.com](https://jicson.netlify.app)
+- Visit my personal site, [jicson.netlify.app](https://jicson.netlify.app)
 - Connect with me, [LinkedIn](https://www.linkedin.com/in/jicsontoh/) 
 
 <!--
